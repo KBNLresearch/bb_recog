@@ -1,4 +1,6 @@
-Challange:
+<h1>Book back recognition</h1>
+
+<h2>Challange</h2>
 
 0) Upload image to webinterface.
 
@@ -10,14 +12,17 @@ Challange:
 
 4) Lookup ISBN per book (Using service of choice).
 
-Optional:
+<h2>Optional:</h2>
 
 5) What is the main catagory of the shelf.
 
 6) What if the shelf would have extra space for x books,
    and what is the shelf is too full, which x books to remove.
 
-Benchmark image:
+<h2>Benchmark image:</h2>
+
+![Benchmark](https://raw.githubusercontent.com/KBNLresearch/bb_recog/master/benchmark.jpg)
+
 
 37 Segments.
 
