@@ -18,6 +18,8 @@
 
 6) What if the shelf would have extra space for x books,
    and what is the shelf is too full, which x books to remove.
+   
+7) Think about possibilities when having access to full text versions of the physical books.
 
 <h2>Benchmark image:</h2>
 
